@@ -15,7 +15,7 @@ For Host:
     Run Server.py
     Enter your machine's IP Address from Step 4
     Enter a desired port number (should be greater than 3000)
-	Host is now ready to accept incoming connections.
+    Host is now ready to accept incoming connections.
 
 For Client:
 
